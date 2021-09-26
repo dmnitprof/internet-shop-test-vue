@@ -1,6 +1,6 @@
 <template>
   <div class="v-catalog">
-    <h2>Catalog</h2>
+    <h2>Catalog-app</h2>
     <div class="v-catalog__list">
       <v-catalog-item
           v-for="product in products"
